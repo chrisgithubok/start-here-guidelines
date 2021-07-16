@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-- [@Chrisg](https://github.com/chrisgithubok)
+- [@chrisgithubok](https://github.com/chrisgithubok)
 
 - [@shashwatbangar](https://github.com/shashwatbangar)
 
